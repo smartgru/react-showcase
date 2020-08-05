@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server/server.js"
   },
-  "author": "Shama H. <shama@tech-dojo.org>",
+  "author": "smartgru",
   "license": "MIT",
   "engines": {
     "node": "5.1.0",

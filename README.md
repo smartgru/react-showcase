@@ -1,12 +1,6 @@
-### Isomorphic React Web App : Showcase
+### React Web App : Showcase
 
 ![demogif](react-showcase.gif?raw=true)
-
-Demo: http://react-showcase.herokuapp.com/
-
-Sign In credentials:
-email: test@tech-dojo.org,
-pass: abcd5678
 
 ### TechStack
 - ReactJS (v15.3.2)
@@ -30,11 +24,6 @@ pass: abcd5678
 2. Install global dependencies with `npm install -g gulp react-tools browserify`
 3. Install dependencies with `npm install`
 4. Run app with `gulp serve`
-
-
-### Read More on the [TechDojo Blog](http://www.tech-dojo.org/#!/articles)
-- [Authentication with React-router](http://www.tech-dojo.org/#!/articles/5697fd5ddb99acd646dea1aa)
-- [Isomorphpic React Web App](http://www.tech-dojo.org/#!/articles/56b1af3e8ff769fc29f96ae8)
 
 
 ### License
